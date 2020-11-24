@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14580" started-at="2019-04-01T09:00:58Z" finished-at="2019-04-01T09:01:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14580" started-at="2019-04-01T09:00:58Z" finished-at="2019-04-01T09:01:12Z">
+      <class name="TestNGConcept.GoogleTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestNGConcept.GoogleTest@2a5ca609]" name="setUp" is-config="true" duration-ms="13330" started-at="2019-04-01T09:00:58Z" finished-at="2019-04-01T09:01:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="GoogleTitleTest()[pri:0, instance:TestNGConcept.GoogleTest@2a5ca609]" name="GoogleTitleTest" duration-ms="9" started-at="2019-04-01T09:01:11Z" finished-at="2019-04-01T09:01:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoogleTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestNGConcept.GoogleTest@2a5ca609]" name="tearDown" is-config="true" duration-ms="1211" started-at="2019-04-01T09:01:11Z" finished-at="2019-04-01T09:01:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestNGConcept.GoogleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
